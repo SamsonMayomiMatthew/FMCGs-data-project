@@ -41,9 +41,10 @@ st.markdown(
         }
 
         /* Hide default streamlit chrome for a cleaner BI look */
+        [data-testid="stHeaderActionButton"] {visibility: hidden;}
+        [data-testid="stDecoration"] {display: none;}
         #MainMenu {visibility: hidden;}
         footer {visibility: hidden;}
-        header {visibility: hidden;}
 
         .block-container {
             padding-top: 1.2rem;
