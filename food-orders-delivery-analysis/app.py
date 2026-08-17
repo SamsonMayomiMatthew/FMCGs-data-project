@@ -312,7 +312,7 @@ st.markdown(
         <div class="meta-row">
             <div class="meta-item"><b>Prepared By:</b> Samson Mayomi Matthew</div>
             <div class="meta-item"><b>Fellow ID:</b> FE/23/45701487</div>
-            <div class="meta-item"><b>Data Source:</b> Synthetic Operations Dataset (Lagos Food Delivery Market)</div>
+            <div class="meta-item"><b>Data Source:</b> Synthetic Food Delivery Orders Dataset</div>
             <div class="meta-item"><b>Loaded As:</b> {data_source_note}</div>
         </div>
     </div>
